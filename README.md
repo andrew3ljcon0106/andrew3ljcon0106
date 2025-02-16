@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋 I'm andrew3ljcon0106
 
-<!--
-**andrew3ljcon0106/andrew3ljcon0106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🏸 🛼 Enthusiastic about databases 🏸 🛼
 
-Here are some ideas to get you started:
+## About Me
+🎳 💻 🎮 💡 A nerd in data science 🎳 💻 🎮 💡
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Working On
+🎪 🎻 🏸 Always learning about tools 🎪 🎻 🏸
+
+### Fun Facts
+🏄 🎾 🎾 A geek in internet of things 🏄 🎾 🎾
+
+---
+🔥 🎧 🎸 🎰 🏓 Thanks for visiting my profile! 🚴 🎪 🏹 🎰 🎻
